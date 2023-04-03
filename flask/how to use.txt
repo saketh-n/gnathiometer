@@ -1,0 +1,1 @@
+﻿You will need to provide the path to the image file and the Haar Cascade classifier XML file in the appropriate locations in the code. Additionally, you will need to provide a guide image that you want to overlay on the face, and adjust the scale_mm value according to the actual size of the ruler in millimeters.
